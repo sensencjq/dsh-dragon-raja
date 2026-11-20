@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Dragon Raja executive login",
+    "description": "Runs a Cassell College clearance boot sequence when the app opens, greets the operator by name, and skins DeepSeek Harness in the black-and-gold Dragon Raja palette with a frame-wide HUD.",
+    "detail": "docs/DETAIL.md"
+  }
+}
